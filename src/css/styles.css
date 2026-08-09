@@ -1,11 +1,3 @@
-/* ==========================================================
-   Estilos do portfólio - Stevan Moises
-   O grosso do layout é feito com classes utilitárias do Tailwind
-   direto no HTML. Este arquivo cobre só o que o Tailwind não
-   resolve: variáveis de tema, cursor customizado, animações
-   e componentes específicos (modal, card 3D, glass effect etc).
-   ========================================================== */
-
 /* Fontes usadas no site: Plus Jakarta Sans (textos) e Fira Code (trechos "de código") */
 @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;600;800&family=Fira+Code:wght@400;500&display=swap');
 
